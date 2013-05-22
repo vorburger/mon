@@ -158,6 +158,8 @@ Comparisons & Integrations
 
 * to YAML: _TODO - I haven't had time to read the HUGE YAML Spec yet.._ ;-)
 
+* to HUTN: _Closer Look & Comparison To Be Done_
+
 * to ... your-favourite? Write it up and send a pull request adding to this.
 
 JSON text coincindetially ;-) happens to actualy be valid MO syntax! _TODO check/allow: The *.properties file syntax from Java is also valid MO syntax._ (The opposite is obviously not true, as MO is richer.) 
@@ -178,4 +180,4 @@ Acknowledgments
 * Ed Merks & Co. (the EMF guys) for.. shapping my modeling thinking
 * [The XML People](http://www.tbray.org/ongoing/When/200x/2008/02/10/XML-People)
 *  Douglas Crockford for JSON
-
+* [HUTN](http://www.omg.org/spec/HUTN/)
